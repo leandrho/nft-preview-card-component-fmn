@@ -1,6 +1,6 @@
 @font-face {
     font-family: Outfit;
-    src: url("/assets/outfit/Outfit-VariableFont_wght.ttf");
+    src: url("./assets/outfit/Outfit-VariableFont_wght.ttf");
 }
 :root{
     --crl-softblue-primary: hsl(215, 51%, 70%);
